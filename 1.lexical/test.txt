@@ -3,3 +3,4 @@ inta#
 int#
 int b#
 int a = 0#
+int b = 123#
