@@ -5,7 +5,7 @@
 #include "lexical.hpp"
 
 int main(){
-	ifstream file("IT_init.txt");
+	ifstream file("test.txt");
 	if(!file.is_open()){
 		cout << "can`t open the test file!" << endl;
 	}
